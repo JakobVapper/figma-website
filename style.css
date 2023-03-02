@@ -85,6 +85,19 @@ h1{
     line-height: 91.7px;
 }
 
+.picture-portfolio-pics{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 220px;
+}
 
+.portfolio-pic-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-
+img{
+    height: 564.51px;
+    width: 544.16px;
+}
