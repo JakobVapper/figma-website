@@ -59,6 +59,7 @@ header {
     width: 762.29px;
     height: auto;
     font-size: 34.84px;
+    text-align: center;
 }
 
 .picture-portfolio{
@@ -88,7 +89,7 @@ h1{
 .picture-portfolio-pics{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding: 0 220px;
+    padding: 0 200px;
 }
 
 .portfolio-pic-container {
@@ -98,6 +99,35 @@ h1{
 }
 
 img{
-    height: 564.51px;
-    width: 544.16px;
+    height: 544.16px;
+    width: 563.57px;
+}
+
+.about-container{
+    display: flex;
+    width: 100%;
+    background-color: #000;
+    height: auto;
+    flex-direction: column; 
+    padding: 505px 0 0;
+}
+
+.about-title{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 31.38px;
+    line-height: 29.98px;
+    text-align: center;
+}
+
+.about-text{
+    display: flex;
+    padding: 55.97px 220px 0;
 }
