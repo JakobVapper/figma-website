@@ -98,7 +98,7 @@ h1{
     align-items: center;
 }
 
-img{
+.portfolio-img{
     height: 544.16px;
     width: 563.57px;
 }
@@ -117,7 +117,7 @@ img{
     justify-content: center;
 }
 
-p{
+.about-text-1{
     color: #fff;
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -130,4 +130,123 @@ p{
 .about-text{
     display: flex;
     padding: 55.97px 220px 0;
+}
+
+.about-img{
+    width: 279.32px;
+    height: 374.46px;
+}
+
+.about-pics{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 40.72px 0 0;
+}
+
+.services-container{
+    display: flex;
+    width: 100%;
+    background-color: #000;
+    height: auto;
+    flex-direction: column;
+    padding: 343.18px 0 0;
+    justify-content: center;
+}
+
+.service-box-1{
+    display: flex;
+    background-color: #F2F2F2;
+    width: 558.51px;
+    height: 516.95px;
+    flex-direction: column;
+    padding: 0 0 0 50px;
+}
+
+.services-title{
+    display: flex;
+    justify-content: center;
+}
+
+.service-boxes{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 97.78px 202px 0;
+}
+
+.service-box-title{
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 60.84px;
+    line-height: 58.12px;
+    padding: 43.07px 0 0;
+}
+
+.service-box-descr{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 26.86px;
+    line-height: 25.66px;
+    padding: 25.26px 0 0;
+    text-align: left;
+}
+
+.quote-button{
+    list-style: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 26.86px;
+    line-height: 25.66px;
+    padding: 73.81px 0 0;    
+}
+
+.service-box-2{
+    display: flex;
+    background-color: #E2E2E2;
+    width: 558.51px;
+    height: 516.95px;
+    flex-direction: column;
+    padding: 0 0 0 50px;
+}
+
+.service-box-3{
+    display: flex;
+    background-color: #C0C0C0;
+    width: 558.51px;
+    height: 516.95px;
+    flex-direction: column;
+    padding: 0 0 0 50px;
+}
+
+.service-box-4{
+    display: flex;
+    background-color: #B4B4B4;
+    width: 558.51px;
+    height: 516.95px;
+    flex-direction: column;
+    padding: 0 0 0 50px;
+}
+
+.contact-container{
+    display: flex;
+    width: 100%;
+    background-color: #000;
+    height: auto;
+    flex-direction: column; 
+    padding: 320.91px 0 0;
+}
+
+.contact-title{
+    display: flex;
+    justify-content: center;
+}
+
+.contact-text{
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 63.79px;
+    line-height: 60.94px;
+    text-align: center;
 }
