@@ -369,3 +369,131 @@ a{
     font-size: 30px;
     line-height: 28.66px;
 }
+
+.picture-item{
+    width: 539.66px;
+    height: 949.51px;
+}
+
+.picture-item-2{
+    width: 567.94px;
+    height: 853.92px;
+}
+
+.text-item{
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 28.66px;
+    width: 438.69px;
+    height: 377.11px;
+}
+
+.column-1{
+    width: 665.28px;
+    display: flex;
+    flex-direction: column;
+}
+
+.column-2{
+    width: 725.95px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pics-and-text-container{
+    display: flex;
+    height: 1504.68px;
+    justify-content: space-between;
+}
+
+.pics-and-text-1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pics-and-text-2{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+    padding: 178.06px 0 0;
+}
+
+.pics-and-text-4{
+    padding: 269.54px 0 0;
+}
+
+.customer-review-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 396.4px 0 366.5px;
+}
+
+.customer-review-title-container{
+    display: flex;
+    justify-content: center;
+    padding: 0 0 90.89px;
+}
+
+.customer-review-title{
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-weight: 400;
+    font-size: 74.36px;
+    line-height: 71.03px;
+}
+
+.pic-of-woman{
+    display: flex;
+    width: 323.42px;
+    height: 409.94px;
+}
+
+.customer-review-columns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.customer-review-column-1{
+    display: flex;
+    justify-content: flex-end;
+    width: 496.91px;
+    height: 541.13px;
+}
+
+.customer-review-column-2{
+    width: 877.48px;
+    height: 541.13px;
+}
+
+.title-of-woman{
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-weight: 400;
+    font-size: 58.55px;
+    line-height: 55.93px;
+    padding: 75.23px 0 0;
+    text-align: left;
+}
+
+.long-woman-text{
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 28.66px;
+    padding: 34.16px 0 0;
+    text-align: left;
+}
+
+.short-woman-text{
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    font-size: 21.59px;
+    line-height: 20.63px;
+    padding: 46px 0 0;
+}
