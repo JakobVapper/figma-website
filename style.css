@@ -250,3 +250,48 @@ h1{
     line-height: 60.94px;
     text-align: center;
 }
+
+.contact-email{
+    padding: 122.63px 0 0;
+}
+
+.contact-phone-num{
+    padding: 0 0 258.4px;
+}
+
+footer{
+    display: flex;
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 70px;
+    align-items: center;
+    padding: 0 90.15px 0 100.68px;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer-right-links{
+    display: flex;
+    width: 439px;
+    justify-content: space-between;
+}
+
+.left-footer-link{
+    font-family: 'Inter', sans-serif;
+    color: #000;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 19.1px;
+}
+
+.right-footer-link{
+    font-family: 'Inter', sans-serif;
+    color: #000;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 19.1px;
+}
+
