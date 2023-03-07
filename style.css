@@ -180,6 +180,8 @@ header {
     font-weight: 700;
     font-size: 60.84px;
     line-height: 58.12px;
+    word-spacing: 11rem;
+    white-space: pre-line;
     padding: 43.07px 0 0;
 }
 
